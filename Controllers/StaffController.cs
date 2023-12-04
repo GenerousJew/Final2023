@@ -14,7 +14,7 @@ namespace API.Controllers
             this.context = context;
         }
 
-        [HttpGet]
+        [HttpGet("login={login}&password={password}&ip={ip}")]
         public IActionResult GetAutorization(string login, string password, string ip)
         {
             var item = context.Staff.FirstOrDefault(x => x.Login == login);
