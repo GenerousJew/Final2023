@@ -1,0 +1,30 @@
+﻿<Window x:Class="Desktop.Windows.LoginHistoryWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Desktop.Windows"
+        mc:Ignorable="d"
+        Title="История входов в систему" MaxHeight="675" MaxWidth="1200" MinHeight="675" MinWidth="1200">
+    <StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <Label Margin="10" Content="Поиск по логину:"/>
+            <TextBox x:Name="LoginSearch" Margin="10" Width="200" TextChanged="SearchChanged"/>
+
+            <Label Margin="10" Content="С какой даты:"/>
+            <DatePicker x:Name="StartDate" Margin="10" Width="200" SelectedDateChanged="SearchChanged"/>
+
+            <Label Margin="10" Content="По какую дату:"/>
+            <DatePicker x:Name="EndDate" Margin="10" Width="200" SelectedDateChanged="SearchChanged"/>
+        </StackPanel>
+
+        <DataGrid x:Name="HistoryGrid" Height="589" AutoGenerateColumns="False" IsReadOnly="True" VerticalScrollBarVisibility="Visible">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="IP-адрес" Binding="{Binding Ip}"/>
+                <DataGridTextColumn Header="Дата" Binding="{Binding Date}"/>
+                <DataGridTextColumn Header="Логин" Binding="{Binding Login}"/>
+                <DataGridCheckBoxColumn Header="Успешная попытка" Binding="{Binding Success}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </StackPanel>
+</Window>

@@ -1,0 +1,230 @@
+G:\Storage\C#\Финал\Desktop\bin\Debug\net7.0-windows\Desktop.exe
+G:\Storage\C#\Финал\Desktop\bin\Debug\net7.0-windows\Desktop.deps.json
+G:\Storage\C#\Финал\Desktop\bin\Debug\net7.0-windows\Desktop.runtimeconfig.json
+G:\Storage\C#\Финал\Desktop\bin\Debug\net7.0-windows\Desktop.dll
+G:\Storage\C#\Финал\Desktop\bin\Debug\net7.0-windows\Desktop.pdb
+G:\Storage\C#\Финал\Desktop\obj\Debug\net7.0-windows\Desktop.csproj.AssemblyReference.cache
+G:\Storage\C#\Финал\Desktop\obj\Debug\net7.0-windows\App.g.cs
+G:\Storage\C#\Финал\Desktop\obj\Debug\net7.0-windows\Desktop_MarkupCompile.cache
+G:\Storage\C#\Финал\Desktop\obj\Debug\net7.0-windows\Desktop_MarkupCompile.lref
+G:\Storage\C#\Финал\Desktop\obj\Debug\net7.0-windows\Desktop.g.resources
+G:\Storage\C#\Финал\Desktop\obj\Debug\net7.0-windows\Desktop.GeneratedMSBuildEditorConfig.editorconfig
+G:\Storage\C#\Финал\Desktop\obj\Debug\net7.0-windows\Desktop.AssemblyInfoInputs.cache
+G:\Storage\C#\Финал\Desktop\obj\Debug\net7.0-windows\Desktop.AssemblyInfo.cs
+G:\Storage\C#\Финал\Desktop\obj\Debug\net7.0-windows\Desktop.csproj.CoreCompileInputs.cache
+G:\Storage\C#\Финал\Desktop\obj\Debug\net7.0-windows\Desktop.dll
+G:\Storage\C#\Финал\Desktop\obj\Debug\net7.0-windows\refint\Desktop.dll
+G:\Storage\C#\Финал\Desktop\obj\Debug\net7.0-windows\Desktop.pdb
+G:\Storage\C#\Финал\Desktop\obj\Debug\net7.0-windows\Desktop.genruntimeconfig.cache
+G:\Storage\C#\Финал\Desktop\obj\Debug\net7.0-windows\ref\Desktop.dll
+G:\Storage\C#\Финал\Desktop\obj\Debug\net7.0-windows\App.baml
+G:\Storage\C#\Финал\Desktop\bin\Debug\net7.0-windows\Desktop.dll.config
+G:\Storage\C#\Финал\Desktop\obj\Debug\net7.0-windows\Desktop_Content.g.cs
+G:\Storage\C#\Финал\Desktop\obj\Debug\net7.0-windows\Pages\Autorization.g.cs
+G:\Storage\C#\Финал\Desktop\obj\Debug\net7.0-windows\Pages\Autorization.baml
+G:\Storage\C#\Финал\Desktop\obj\Debug\net7.0-windows\Pages\AccountantPage.g.cs
+G:\Storage\C#\Финал\Desktop\obj\Debug\net7.0-windows\Pages\AdminPage.g.cs
+G:\Storage\C#\Финал\Desktop\obj\Debug\net7.0-windows\Pages\LabPage.g.cs
+G:\Storage\C#\Финал\Desktop\obj\Debug\net7.0-windows\Pages\LabResPage.g.cs
+G:\Storage\C#\Финал\Desktop\obj\Debug\net7.0-windows\Pages\AccountantPage.baml
+G:\Storage\C#\Финал\Desktop\obj\Debug\net7.0-windows\Pages\AdminPage.baml
+G:\Storage\C#\Финал\Desktop\obj\Debug\net7.0-windows\Pages\LabPage.baml
+G:\Storage\C#\Финал\Desktop\obj\Debug\net7.0-windows\Pages\LabResPage.baml
+G:\Storage\C#\Финал\Desktop\obj\Debug\net7.0-windows\Windows\MainWindow.g.cs
+G:\Storage\C#\Финал\Desktop\obj\Debug\net7.0-windows\Windows\MainWindow.baml
+G:\Storage\C#\Финал\Desktop\obj\Debug\net7.0-windows\Windows\LoginHistoryWindow.g.cs
+G:\Storage\C#\Финал\Desktop\obj\Debug\net7.0-windows\Windows\LoginHistoryWindow.baml
+C:\Users\lukovnikov\Desktop\Финал\Desktop\bin\Debug\net7.0-windows\Desktop.exe
+C:\Users\lukovnikov\Desktop\Финал\Desktop\bin\Debug\net7.0-windows\Desktop.dll.config
+C:\Users\lukovnikov\Desktop\Финал\Desktop\bin\Debug\net7.0-windows\Desktop.deps.json
+C:\Users\lukovnikov\Desktop\Финал\Desktop\bin\Debug\net7.0-windows\Desktop.runtimeconfig.json
+C:\Users\lukovnikov\Desktop\Финал\Desktop\bin\Debug\net7.0-windows\Desktop.dll
+C:\Users\lukovnikov\Desktop\Финал\Desktop\bin\Debug\net7.0-windows\Desktop.pdb
+C:\Users\lukovnikov\Desktop\Финал\Desktop\obj\Debug\net7.0-windows\Desktop.csproj.AssemblyReference.cache
+C:\Users\lukovnikov\Desktop\Финал\Desktop\obj\Debug\net7.0-windows\Pages\AccountantPage.g.cs
+C:\Users\lukovnikov\Desktop\Финал\Desktop\obj\Debug\net7.0-windows\Pages\AdminPage.g.cs
+C:\Users\lukovnikov\Desktop\Финал\Desktop\obj\Debug\net7.0-windows\Pages\Autorization.g.cs
+C:\Users\lukovnikov\Desktop\Финал\Desktop\obj\Debug\net7.0-windows\Pages\LabPage.g.cs
+C:\Users\lukovnikov\Desktop\Финал\Desktop\obj\Debug\net7.0-windows\Pages\LabResPage.g.cs
+C:\Users\lukovnikov\Desktop\Финал\Desktop\obj\Debug\net7.0-windows\Windows\LoginHistoryWindow.g.cs
+C:\Users\lukovnikov\Desktop\Финал\Desktop\obj\Debug\net7.0-windows\Windows\MainWindow.g.cs
+C:\Users\lukovnikov\Desktop\Финал\Desktop\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\lukovnikov\Desktop\Финал\Desktop\obj\Debug\net7.0-windows\Desktop_Content.g.cs
+C:\Users\lukovnikov\Desktop\Финал\Desktop\obj\Debug\net7.0-windows\Desktop_MarkupCompile.cache
+C:\Users\lukovnikov\Desktop\Финал\Desktop\obj\Debug\net7.0-windows\Desktop_MarkupCompile.lref
+C:\Users\lukovnikov\Desktop\Финал\Desktop\obj\Debug\net7.0-windows\App.baml
+C:\Users\lukovnikov\Desktop\Финал\Desktop\obj\Debug\net7.0-windows\Pages\AccountantPage.baml
+C:\Users\lukovnikov\Desktop\Финал\Desktop\obj\Debug\net7.0-windows\Pages\AdminPage.baml
+C:\Users\lukovnikov\Desktop\Финал\Desktop\obj\Debug\net7.0-windows\Pages\Autorization.baml
+C:\Users\lukovnikov\Desktop\Финал\Desktop\obj\Debug\net7.0-windows\Pages\LabPage.baml
+C:\Users\lukovnikov\Desktop\Финал\Desktop\obj\Debug\net7.0-windows\Pages\LabResPage.baml
+C:\Users\lukovnikov\Desktop\Финал\Desktop\obj\Debug\net7.0-windows\Windows\LoginHistoryWindow.baml
+C:\Users\lukovnikov\Desktop\Финал\Desktop\obj\Debug\net7.0-windows\Windows\MainWindow.baml
+C:\Users\lukovnikov\Desktop\Финал\Desktop\obj\Debug\net7.0-windows\Desktop.g.resources
+C:\Users\lukovnikov\Desktop\Финал\Desktop\obj\Debug\net7.0-windows\Desktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukovnikov\Desktop\Финал\Desktop\obj\Debug\net7.0-windows\Desktop.AssemblyInfoInputs.cache
+C:\Users\lukovnikov\Desktop\Финал\Desktop\obj\Debug\net7.0-windows\Desktop.AssemblyInfo.cs
+C:\Users\lukovnikov\Desktop\Финал\Desktop\obj\Debug\net7.0-windows\Desktop.csproj.CoreCompileInputs.cache
+C:\Users\lukovnikov\Desktop\Финал\Desktop\obj\Debug\net7.0-windows\Desktop.dll
+C:\Users\lukovnikov\Desktop\Финал\Desktop\obj\Debug\net7.0-windows\refint\Desktop.dll
+C:\Users\lukovnikov\Desktop\Финал\Desktop\obj\Debug\net7.0-windows\Desktop.pdb
+C:\Users\lukovnikov\Desktop\Финал\Desktop\obj\Debug\net7.0-windows\Desktop.genruntimeconfig.cache
+C:\Users\lukovnikov\Desktop\Финал\Desktop\obj\Debug\net7.0-windows\ref\Desktop.dll
+C:\Users\lukovnikov\Desktop\Финал\Desktop\obj\Debug\net7.0-windows\Windows\CaseEnterWindow.g.cs
+C:\Users\lukovnikov\Desktop\Финал\Desktop\obj\Debug\net7.0-windows\Windows\CaseEnterWindow.baml
+C:\Users\lukovnikov\Desktop\Финал\Desktop\obj\Debug\net7.0-windows\Pages\CaseNumberPage.g.cs
+C:\Users\lukovnikov\Desktop\Финал\Desktop\obj\Debug\net7.0-windows\Pages\UserCreaterPage.g.cs
+C:\Users\lukovnikov\Desktop\Финал\Desktop\obj\Debug\net7.0-windows\Pages\CaseNumberPage.baml
+C:\Users\lukovnikov\Desktop\Финал\Desktop\obj\Debug\net7.0-windows\Pages\UserCreaterPage.baml
+C:\Users\lukovnikov\Desktop\Финал\Desktop\obj\Debug\net7.0-windows\Pages\OrderEditorPage.g.cs
+C:\Users\lukovnikov\Desktop\Финал\Desktop\obj\Debug\net7.0-windows\Pages\OrderEditorPage.baml
+C:\Users\lukovnikov\Desktop\Финал\Desktop\obj\Debug\net7.0-windows\Pages\Test1.g.cs
+C:\Users\lukovnikov\Desktop\Финал\Desktop\obj\Debug\net7.0-windows\Pages\Test1.baml
+G:\Storage\C#\Финал\Desktop\obj\Debug\net7.0-windows\Pages\CaseNumberPage.g.cs
+G:\Storage\C#\Финал\Desktop\obj\Debug\net7.0-windows\Pages\OrderEditorPage.g.cs
+G:\Storage\C#\Финал\Desktop\obj\Debug\net7.0-windows\Pages\Test1.g.cs
+G:\Storage\C#\Финал\Desktop\obj\Debug\net7.0-windows\Windows\CaseEnterWindow.g.cs
+G:\Storage\C#\Финал\Desktop\obj\Debug\net7.0-windows\Pages\CaseNumberPage.baml
+G:\Storage\C#\Финал\Desktop\obj\Debug\net7.0-windows\Pages\OrderEditorPage.baml
+G:\Storage\C#\Финал\Desktop\obj\Debug\net7.0-windows\Pages\Test1.baml
+G:\Storage\C#\Финал\Desktop\obj\Debug\net7.0-windows\Windows\CaseEnterWindow.baml
+G:\Storage\C#\Финал\Desktop\obj\Debug\net7.0-windows\Windows\UserCreatorWindow.g.cs
+G:\Storage\C#\Финал\Desktop\obj\Debug\net7.0-windows\Windows\UserCreatorWindow.baml
+H:\Финал\Desktop\bin\Debug\net7.0-windows\Desktop.exe
+H:\Финал\Desktop\bin\Debug\net7.0-windows\Desktop.dll.config
+H:\Финал\Desktop\bin\Debug\net7.0-windows\Desktop.deps.json
+H:\Финал\Desktop\bin\Debug\net7.0-windows\Desktop.runtimeconfig.json
+H:\Финал\Desktop\bin\Debug\net7.0-windows\Desktop.dll
+H:\Финал\Desktop\bin\Debug\net7.0-windows\Desktop.pdb
+H:\Финал\Desktop\obj\Debug\net7.0-windows\Desktop.csproj.AssemblyReference.cache
+H:\Финал\Desktop\obj\Debug\net7.0-windows\Pages\AccountantPage.g.cs
+H:\Финал\Desktop\obj\Debug\net7.0-windows\Pages\AdminPage.g.cs
+H:\Финал\Desktop\obj\Debug\net7.0-windows\Pages\Autorization.g.cs
+H:\Финал\Desktop\obj\Debug\net7.0-windows\Pages\CaseNumberPage.g.cs
+H:\Финал\Desktop\obj\Debug\net7.0-windows\Pages\LabPage.g.cs
+H:\Финал\Desktop\obj\Debug\net7.0-windows\Pages\LabResPage.g.cs
+H:\Финал\Desktop\obj\Debug\net7.0-windows\Pages\OrderEditorPage.g.cs
+H:\Финал\Desktop\obj\Debug\net7.0-windows\Pages\Test1.g.cs
+H:\Финал\Desktop\obj\Debug\net7.0-windows\Windows\CaseEnterWindow.g.cs
+H:\Финал\Desktop\obj\Debug\net7.0-windows\Windows\LoginHistoryWindow.g.cs
+H:\Финал\Desktop\obj\Debug\net7.0-windows\Windows\MainWindow.g.cs
+H:\Финал\Desktop\obj\Debug\net7.0-windows\Windows\UserCreatorWindow.g.cs
+H:\Финал\Desktop\obj\Debug\net7.0-windows\App.g.cs
+H:\Финал\Desktop\obj\Debug\net7.0-windows\Desktop_Content.g.cs
+H:\Финал\Desktop\obj\Debug\net7.0-windows\Desktop_MarkupCompile.cache
+H:\Финал\Desktop\obj\Debug\net7.0-windows\Desktop_MarkupCompile.lref
+H:\Финал\Desktop\obj\Debug\net7.0-windows\App.baml
+H:\Финал\Desktop\obj\Debug\net7.0-windows\Pages\AccountantPage.baml
+H:\Финал\Desktop\obj\Debug\net7.0-windows\Pages\AdminPage.baml
+H:\Финал\Desktop\obj\Debug\net7.0-windows\Pages\Autorization.baml
+H:\Финал\Desktop\obj\Debug\net7.0-windows\Pages\CaseNumberPage.baml
+H:\Финал\Desktop\obj\Debug\net7.0-windows\Pages\LabPage.baml
+H:\Финал\Desktop\obj\Debug\net7.0-windows\Pages\LabResPage.baml
+H:\Финал\Desktop\obj\Debug\net7.0-windows\Pages\OrderEditorPage.baml
+H:\Финал\Desktop\obj\Debug\net7.0-windows\Pages\Test1.baml
+H:\Финал\Desktop\obj\Debug\net7.0-windows\Windows\CaseEnterWindow.baml
+H:\Финал\Desktop\obj\Debug\net7.0-windows\Windows\LoginHistoryWindow.baml
+H:\Финал\Desktop\obj\Debug\net7.0-windows\Windows\MainWindow.baml
+H:\Финал\Desktop\obj\Debug\net7.0-windows\Windows\UserCreatorWindow.baml
+H:\Финал\Desktop\obj\Debug\net7.0-windows\Desktop.g.resources
+H:\Финал\Desktop\obj\Debug\net7.0-windows\Desktop.GeneratedMSBuildEditorConfig.editorconfig
+H:\Финал\Desktop\obj\Debug\net7.0-windows\Desktop.AssemblyInfoInputs.cache
+H:\Финал\Desktop\obj\Debug\net7.0-windows\Desktop.AssemblyInfo.cs
+H:\Финал\Desktop\obj\Debug\net7.0-windows\Desktop.csproj.CoreCompileInputs.cache
+H:\Финал\Desktop\obj\Debug\net7.0-windows\Desktop.dll
+H:\Финал\Desktop\obj\Debug\net7.0-windows\refint\Desktop.dll
+H:\Финал\Desktop\obj\Debug\net7.0-windows\Desktop.pdb
+H:\Финал\Desktop\obj\Debug\net7.0-windows\Desktop.genruntimeconfig.cache
+H:\Финал\Desktop\obj\Debug\net7.0-windows\ref\Desktop.dll
+C:\Users\danii\Desktop\Новая папка (11)\Desktop\bin\Debug\net7.0-windows\Desktop.exe
+C:\Users\danii\Desktop\Новая папка (11)\Desktop\bin\Debug\net7.0-windows\Desktop.dll.config
+C:\Users\danii\Desktop\Новая папка (11)\Desktop\bin\Debug\net7.0-windows\Desktop.deps.json
+C:\Users\danii\Desktop\Новая папка (11)\Desktop\bin\Debug\net7.0-windows\Desktop.runtimeconfig.json
+C:\Users\danii\Desktop\Новая папка (11)\Desktop\bin\Debug\net7.0-windows\Desktop.dll
+C:\Users\danii\Desktop\Новая папка (11)\Desktop\bin\Debug\net7.0-windows\Desktop.pdb
+C:\Users\danii\Desktop\Новая папка (11)\Desktop\obj\Debug\net7.0-windows\Desktop.csproj.AssemblyReference.cache
+C:\Users\danii\Desktop\Новая папка (11)\Desktop\obj\Debug\net7.0-windows\Pages\AccountantPage.g.cs
+C:\Users\danii\Desktop\Новая папка (11)\Desktop\obj\Debug\net7.0-windows\Pages\AdminPage.g.cs
+C:\Users\danii\Desktop\Новая папка (11)\Desktop\obj\Debug\net7.0-windows\Pages\Autorization.g.cs
+C:\Users\danii\Desktop\Новая папка (11)\Desktop\obj\Debug\net7.0-windows\Pages\CaseNumberPage.g.cs
+C:\Users\danii\Desktop\Новая папка (11)\Desktop\obj\Debug\net7.0-windows\Pages\LabPage.g.cs
+C:\Users\danii\Desktop\Новая папка (11)\Desktop\obj\Debug\net7.0-windows\Pages\LabResPage.g.cs
+C:\Users\danii\Desktop\Новая папка (11)\Desktop\obj\Debug\net7.0-windows\Pages\OrderEditorPage.g.cs
+C:\Users\danii\Desktop\Новая папка (11)\Desktop\obj\Debug\net7.0-windows\Pages\Test1.g.cs
+C:\Users\danii\Desktop\Новая папка (11)\Desktop\obj\Debug\net7.0-windows\Windows\CaseEnterWindow.g.cs
+C:\Users\danii\Desktop\Новая папка (11)\Desktop\obj\Debug\net7.0-windows\Windows\LoginHistoryWindow.g.cs
+C:\Users\danii\Desktop\Новая папка (11)\Desktop\obj\Debug\net7.0-windows\Windows\MainWindow.g.cs
+C:\Users\danii\Desktop\Новая папка (11)\Desktop\obj\Debug\net7.0-windows\Windows\UserCreatorWindow.g.cs
+C:\Users\danii\Desktop\Новая папка (11)\Desktop\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\danii\Desktop\Новая папка (11)\Desktop\obj\Debug\net7.0-windows\Desktop_Content.g.cs
+C:\Users\danii\Desktop\Новая папка (11)\Desktop\obj\Debug\net7.0-windows\Desktop_MarkupCompile.cache
+C:\Users\danii\Desktop\Новая папка (11)\Desktop\obj\Debug\net7.0-windows\Desktop_MarkupCompile.lref
+C:\Users\danii\Desktop\Новая папка (11)\Desktop\obj\Debug\net7.0-windows\App.baml
+C:\Users\danii\Desktop\Новая папка (11)\Desktop\obj\Debug\net7.0-windows\Pages\AccountantPage.baml
+C:\Users\danii\Desktop\Новая папка (11)\Desktop\obj\Debug\net7.0-windows\Pages\AdminPage.baml
+C:\Users\danii\Desktop\Новая папка (11)\Desktop\obj\Debug\net7.0-windows\Pages\Autorization.baml
+C:\Users\danii\Desktop\Новая папка (11)\Desktop\obj\Debug\net7.0-windows\Pages\CaseNumberPage.baml
+C:\Users\danii\Desktop\Новая папка (11)\Desktop\obj\Debug\net7.0-windows\Pages\LabPage.baml
+C:\Users\danii\Desktop\Новая папка (11)\Desktop\obj\Debug\net7.0-windows\Pages\LabResPage.baml
+C:\Users\danii\Desktop\Новая папка (11)\Desktop\obj\Debug\net7.0-windows\Pages\OrderEditorPage.baml
+C:\Users\danii\Desktop\Новая папка (11)\Desktop\obj\Debug\net7.0-windows\Pages\Test1.baml
+C:\Users\danii\Desktop\Новая папка (11)\Desktop\obj\Debug\net7.0-windows\Windows\CaseEnterWindow.baml
+C:\Users\danii\Desktop\Новая папка (11)\Desktop\obj\Debug\net7.0-windows\Windows\LoginHistoryWindow.baml
+C:\Users\danii\Desktop\Новая папка (11)\Desktop\obj\Debug\net7.0-windows\Windows\MainWindow.baml
+C:\Users\danii\Desktop\Новая папка (11)\Desktop\obj\Debug\net7.0-windows\Windows\UserCreatorWindow.baml
+C:\Users\danii\Desktop\Новая папка (11)\Desktop\obj\Debug\net7.0-windows\Desktop.g.resources
+C:\Users\danii\Desktop\Новая папка (11)\Desktop\obj\Debug\net7.0-windows\Desktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danii\Desktop\Новая папка (11)\Desktop\obj\Debug\net7.0-windows\Desktop.AssemblyInfoInputs.cache
+C:\Users\danii\Desktop\Новая папка (11)\Desktop\obj\Debug\net7.0-windows\Desktop.AssemblyInfo.cs
+C:\Users\danii\Desktop\Новая папка (11)\Desktop\obj\Debug\net7.0-windows\Desktop.csproj.CoreCompileInputs.cache
+C:\Users\danii\Desktop\Новая папка (11)\Desktop\obj\Debug\net7.0-windows\Desktop.dll
+C:\Users\danii\Desktop\Новая папка (11)\Desktop\obj\Debug\net7.0-windows\refint\Desktop.dll
+C:\Users\danii\Desktop\Новая папка (11)\Desktop\obj\Debug\net7.0-windows\Desktop.pdb
+C:\Users\danii\Desktop\Новая папка (11)\Desktop\obj\Debug\net7.0-windows\Desktop.genruntimeconfig.cache
+C:\Users\danii\Desktop\Новая папка (11)\Desktop\obj\Debug\net7.0-windows\ref\Desktop.dll
+C:\Users\IS\Desktop\DeleteThis\Desktop\bin\Debug\net7.0-windows\Desktop.exe
+C:\Users\IS\Desktop\DeleteThis\Desktop\bin\Debug\net7.0-windows\Desktop.dll.config
+C:\Users\IS\Desktop\DeleteThis\Desktop\bin\Debug\net7.0-windows\Desktop.deps.json
+C:\Users\IS\Desktop\DeleteThis\Desktop\bin\Debug\net7.0-windows\Desktop.runtimeconfig.json
+C:\Users\IS\Desktop\DeleteThis\Desktop\bin\Debug\net7.0-windows\Desktop.dll
+C:\Users\IS\Desktop\DeleteThis\Desktop\bin\Debug\net7.0-windows\Desktop.pdb
+C:\Users\IS\Desktop\DeleteThis\Desktop\obj\Debug\net7.0-windows\Desktop.csproj.AssemblyReference.cache
+C:\Users\IS\Desktop\DeleteThis\Desktop\obj\Debug\net7.0-windows\Pages\AccountantPage.g.cs
+C:\Users\IS\Desktop\DeleteThis\Desktop\obj\Debug\net7.0-windows\Pages\AdminPage.g.cs
+C:\Users\IS\Desktop\DeleteThis\Desktop\obj\Debug\net7.0-windows\Pages\Autorization.g.cs
+C:\Users\IS\Desktop\DeleteThis\Desktop\obj\Debug\net7.0-windows\Pages\CaseNumberPage.g.cs
+C:\Users\IS\Desktop\DeleteThis\Desktop\obj\Debug\net7.0-windows\Pages\LabPage.g.cs
+C:\Users\IS\Desktop\DeleteThis\Desktop\obj\Debug\net7.0-windows\Pages\LabResPage.g.cs
+C:\Users\IS\Desktop\DeleteThis\Desktop\obj\Debug\net7.0-windows\Pages\OrderEditorPage.g.cs
+C:\Users\IS\Desktop\DeleteThis\Desktop\obj\Debug\net7.0-windows\Pages\Test1.g.cs
+C:\Users\IS\Desktop\DeleteThis\Desktop\obj\Debug\net7.0-windows\Windows\CaseEnterWindow.g.cs
+C:\Users\IS\Desktop\DeleteThis\Desktop\obj\Debug\net7.0-windows\Windows\LoginHistoryWindow.g.cs
+C:\Users\IS\Desktop\DeleteThis\Desktop\obj\Debug\net7.0-windows\Windows\MainWindow.g.cs
+C:\Users\IS\Desktop\DeleteThis\Desktop\obj\Debug\net7.0-windows\Windows\UserCreatorWindow.g.cs
+C:\Users\IS\Desktop\DeleteThis\Desktop\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\IS\Desktop\DeleteThis\Desktop\obj\Debug\net7.0-windows\Desktop_Content.g.cs
+C:\Users\IS\Desktop\DeleteThis\Desktop\obj\Debug\net7.0-windows\Desktop_MarkupCompile.cache
+C:\Users\IS\Desktop\DeleteThis\Desktop\obj\Debug\net7.0-windows\Desktop_MarkupCompile.lref
+C:\Users\IS\Desktop\DeleteThis\Desktop\obj\Debug\net7.0-windows\App.baml
+C:\Users\IS\Desktop\DeleteThis\Desktop\obj\Debug\net7.0-windows\Pages\AccountantPage.baml
+C:\Users\IS\Desktop\DeleteThis\Desktop\obj\Debug\net7.0-windows\Pages\AdminPage.baml
+C:\Users\IS\Desktop\DeleteThis\Desktop\obj\Debug\net7.0-windows\Pages\Autorization.baml
+C:\Users\IS\Desktop\DeleteThis\Desktop\obj\Debug\net7.0-windows\Pages\CaseNumberPage.baml
+C:\Users\IS\Desktop\DeleteThis\Desktop\obj\Debug\net7.0-windows\Pages\LabPage.baml
+C:\Users\IS\Desktop\DeleteThis\Desktop\obj\Debug\net7.0-windows\Pages\LabResPage.baml
+C:\Users\IS\Desktop\DeleteThis\Desktop\obj\Debug\net7.0-windows\Pages\OrderEditorPage.baml
+C:\Users\IS\Desktop\DeleteThis\Desktop\obj\Debug\net7.0-windows\Pages\Test1.baml
+C:\Users\IS\Desktop\DeleteThis\Desktop\obj\Debug\net7.0-windows\Windows\CaseEnterWindow.baml
+C:\Users\IS\Desktop\DeleteThis\Desktop\obj\Debug\net7.0-windows\Windows\LoginHistoryWindow.baml
+C:\Users\IS\Desktop\DeleteThis\Desktop\obj\Debug\net7.0-windows\Windows\MainWindow.baml
+C:\Users\IS\Desktop\DeleteThis\Desktop\obj\Debug\net7.0-windows\Windows\UserCreatorWindow.baml
+C:\Users\IS\Desktop\DeleteThis\Desktop\obj\Debug\net7.0-windows\Desktop.g.resources
+C:\Users\IS\Desktop\DeleteThis\Desktop\obj\Debug\net7.0-windows\Desktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IS\Desktop\DeleteThis\Desktop\obj\Debug\net7.0-windows\Desktop.AssemblyInfoInputs.cache
+C:\Users\IS\Desktop\DeleteThis\Desktop\obj\Debug\net7.0-windows\Desktop.AssemblyInfo.cs
+C:\Users\IS\Desktop\DeleteThis\Desktop\obj\Debug\net7.0-windows\Desktop.csproj.CoreCompileInputs.cache
+C:\Users\IS\Desktop\DeleteThis\Desktop\obj\Debug\net7.0-windows\Desktop.dll
+C:\Users\IS\Desktop\DeleteThis\Desktop\obj\Debug\net7.0-windows\refint\Desktop.dll
+C:\Users\IS\Desktop\DeleteThis\Desktop\obj\Debug\net7.0-windows\Desktop.pdb
+C:\Users\IS\Desktop\DeleteThis\Desktop\obj\Debug\net7.0-windows\Desktop.genruntimeconfig.cache
+C:\Users\IS\Desktop\DeleteThis\Desktop\obj\Debug\net7.0-windows\ref\Desktop.dll

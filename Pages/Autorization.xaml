@@ -1,0 +1,45 @@
+﻿<Page x:Class="Desktop.Pages.Autorization"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Desktop.Pages"
+      mc:Ignorable="d"
+      d:DesignHeight="675" d:DesignWidth="1200"
+      Title="Autorization">
+
+    <Grid>
+        <StackPanel Width="700" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Label Content="Логин:" Margin="10" FontSize="24"/>
+            <TextBox x:Name="LoginText" Margin="10" FontSize="24"/>
+            <Label Content="Пароль:" Margin="10" FontSize="24"/>
+            <Grid>
+                <TextBox x:Name="PasswordTextVisible" Margin="10" FontSize="24" Visibility="Hidden"/>
+                <PasswordBox x:Name="PasswordTextHidden" Margin="10" FontSize="24"/>
+            </Grid>
+            <StackPanel Orientation="Horizontal" Width="690">
+                <Label Content="Показать пароль" VerticalAlignment="Center"/>
+                <CheckBox x:Name="PasswordVis" VerticalAlignment="Center" Checked="PasswordCheck" Unchecked="PasswordCheck"/>
+            </StackPanel>
+
+            <StackPanel x:Name="CaptchaPanel" HorizontalAlignment="Center" Visibility="Hidden">
+                <StackPanel.Background>
+                    <!--<ImageBrush ImageSource="\Images\капча.png"/>-->
+                    <ImageBrush ImageSource="\Images\капча.png"/>
+                </StackPanel.Background>
+                
+                <StackPanel Orientation="Horizontal" Height="75">
+                    <TextBlock x:Name="FirstCaptcha" Text="W" Width="45" FontSize="46" FontFamily="MV Boli" TextDecorations="Strikethrough"/>
+                    <TextBlock x:Name="SecondCaptcha" Text="W" Width="45" FontSize="46" FontFamily="MV Boli" TextDecorations="Strikethrough"/>
+                    <TextBlock x:Name="ThirdCaptcha" Text="W" Width="45" FontSize="46" FontFamily="MV Boli" TextDecorations="Strikethrough"/>
+                    <TextBlock x:Name="FourthCaptcha" Text="W" Width="45" FontSize="46" FontFamily="MV Boli" TextDecorations="Strikethrough"/>
+                    <Button Background="Transparent" Margin="20" FontSize="24" Content="Обновить" Click="CaptchaUpdate"/>
+                </StackPanel>
+
+                <TextBox x:Name="CaptchaBox" FontSize="24" Margin="10"/>
+            </StackPanel>
+            
+            <Button x:Name="EnterButton" Content="Войти" Margin="10" FontSize="24" Background="Transparent" Click="EnterClick"/>
+        </StackPanel>
+    </Grid>
+</Page>

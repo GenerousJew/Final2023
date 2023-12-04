@@ -1,0 +1,58 @@
+﻿<Page x:Class="Desktop.Pages.LabResPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Desktop.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="675" d:DesignWidth="1200"
+      Title="LabResPage">
+
+    <Grid>
+        <StackPanel Margin="10" HorizontalAlignment="Left" VerticalAlignment="Top">
+            <Image Source="\Images\laborant_2.png" Height="100" Width="75" HorizontalAlignment="Left"/>
+            <TextBlock x:Name="NameText" Text="Фамилия и Имя" FontSize="16"/>
+            <TextBlock Text="Лаборант-иследователь" FontSize="16"/>
+        </StackPanel>
+
+        <Button Content="Выйти" HorizontalAlignment="Right" VerticalAlignment="Top" FontSize="24" Margin="10, 10, 20, 10" Background="Transparent" Click="ExitClick"/>
+
+        <TextBlock x:Name="TimeText" Text="2:00" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="10" FontSize="24"/>
+
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+            <ComboBox x:Name="UtilizerComboBox" SelectionChanged="UtilizerChanged" Margin="5" Width="150"/>
+
+            <DataGrid Width="750" Height="500" VerticalScrollBarVisibility="Visible" x:Name="UtilizerDataGrid" Margin="5" AutoGenerateColumns="False" IsReadOnly="True">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Код услуги" Binding="{Binding Code}"/>
+                    <DataGridTextColumn Header="Наименование услуги" Binding="{Binding Name}"/>
+
+                    <DataGridTemplateColumn Header="Прогресс услуги">
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <Grid>
+                                    <ProgressBar Minimum="0" Maximum="100" Value="{Binding Progress}"/>
+                                    <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" Text="{Binding Progress, StringFormat='0\\%'}"/>
+                                </Grid>
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+
+                    <DataGridTextColumn Header="Статус услуги" Binding="{Binding StatusName}"/>
+                    <DataGridTextColumn Header="Результат услуги" Binding="{Binding Result}"/>
+
+                    <DataGridTemplateColumn Header="Действия с услугой">
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <Grid>
+                                    <Button Content="Отправить на утилизатор" Visibility="{Binding IsCanSend}" Click="SendServiceClick"/>
+                                    <Button Content="Одобрить" Visibility="{Binding IsCanApprove}" Click="ApproveServiceClick"/>
+                                </Grid>
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+                </DataGrid.Columns>
+            </DataGrid>
+        </StackPanel>
+    </Grid>
+</Page>
