@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Mobile.Pages.ProfilePage">
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="Center" Padding="10">
+            <Label FontSize="20" x:Name="FullNameLabel"/>
+            <Label FontSize="20" x:Name="DateLabel"/>
+            <Label FontSize="20" x:Name="AgeLabel"/>
+            <Editor x:Name="PhoneEditor"/>
+            <Editor x:Name="MailEditor"/>
+            <Editor x:Name="PasswordEditor"/>
+
+            <Button Text="Сохранить" Clicked="SaveClick"/>
+            <Button Text="Выйти" Clicked="ExitClick"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

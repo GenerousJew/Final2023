@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Mobile.Pages.RegistratePage">
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="Center" Padding="10">
+            <Label Text="ФИО"/>
+            <Editor x:Name="FullNameEditor"/>
+            <Label Text="Телефон"/>
+            <Editor x:Name="PhoneEditor"/>
+            <Label Text="Эл. почта"/>
+            <Editor x:Name="MailEditor"/>
+            <Label Text="Дата рождения"/>
+            <DatePicker x:Name="BirthDatePicker"/>
+            <Label Text="Логин"/>
+            <Editor x:Name="LoginEditor"/>
+            <Label Text="Пароль"/>
+            <Editor x:Name="PasswordEditor"/>
+            <Button Text="Зарегистрироваться" Clicked="RegistrateClick"/>
+            <Button Text="Выйти" Clicked="ExitClick"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

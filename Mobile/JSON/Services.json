@@ -1,0 +1,189 @@
+[
+  {
+    "code": 176,
+    "name": "Утилизация сильно действующих химических препаратов",
+    "price": 102.85,
+    "executionPeriod": null,
+    "averageDeviation": null,
+    "averageResult": null,
+    "orderServices": [],
+    "staff": [],
+    "utilizers": []
+  },
+  {
+    "code": 229,
+    "name": "Выезд курьера",
+    "price": 341.78,
+    "executionPeriod": null,
+    "averageDeviation": null,
+    "averageResult": null,
+    "orderServices": [],
+    "staff": [],
+    "utilizers": []
+  },
+  {
+    "code": 258,
+    "name": "Утилизация лекарственных препаратов",
+    "price": 143.22,
+    "executionPeriod": null,
+    "averageDeviation": null,
+    "averageResult": 38.2,
+    "orderServices": [],
+    "staff": [],
+    "utilizers": []
+  },
+  {
+    "code": 287,
+    "name": "Исследования жидких отходов",
+    "price": 290.11,
+    "executionPeriod": null,
+    "averageDeviation": null,
+    "averageResult": null,
+    "orderServices": [],
+    "staff": [],
+    "utilizers": []
+  },
+  {
+    "code": 311,
+    "name": "Утилизация аккумуляторов",
+    "price": 361.88,
+    "executionPeriod": null,
+    "averageDeviation": null,
+    "averageResult": null,
+    "orderServices": [],
+    "staff": [],
+    "utilizers": []
+  },
+  {
+    "code": 323,
+    "name": "Эко-паспорт",
+    "price": 447.65,
+    "executionPeriod": null,
+    "averageDeviation": null,
+    "averageResult": null,
+    "orderServices": [],
+    "staff": [],
+    "utilizers": []
+  },
+  {
+    "code": 346,
+    "name": "Формирование карточки частного лица",
+    "price": 396.03,
+    "executionPeriod": null,
+    "averageDeviation": null,
+    "averageResult": null,
+    "orderServices": [],
+    "staff": [],
+    "utilizers": []
+  },
+  {
+    "code": 415,
+    "name": "Хранение отходов",
+    "price": 419.9,
+    "executionPeriod": null,
+    "averageDeviation": null,
+    "averageResult": null,
+    "orderServices": [],
+    "staff": [],
+    "utilizers": []
+  },
+  {
+    "code": 501,
+    "name": "Утилизация медицинских отходов",
+    "price": 176.83,
+    "executionPeriod": null,
+    "averageDeviation": null,
+    "averageResult": null,
+    "orderServices": [],
+    "staff": [],
+    "utilizers": []
+  },
+  {
+    "code": 543,
+    "name": "Утилизация промышленных и производственных отходов",
+    "price": 289.99,
+    "executionPeriod": null,
+    "averageDeviation": null,
+    "averageResult": null,
+    "orderServices": [],
+    "staff": [],
+    "utilizers": []
+  },
+  {
+    "code": 548,
+    "name": "Утилизация ртутных градусников",
+    "price": 234.09,
+    "executionPeriod": null,
+    "averageDeviation": null,
+    "averageResult": null,
+    "orderServices": [],
+    "staff": [],
+    "utilizers": []
+  },
+  {
+    "code": 557,
+    "name": "Утилизация отходов химической промышленности",
+    "price": 490.77,
+    "executionPeriod": null,
+    "averageDeviation": null,
+    "averageResult": null,
+    "orderServices": [],
+    "staff": [],
+    "utilizers": []
+  },
+  {
+    "code": 619,
+    "name": "Утилизация батареек",
+    "price": 262.71,
+    "executionPeriod": null,
+    "averageDeviation": null,
+    "averageResult": null,
+    "orderServices": [],
+    "staff": [],
+    "utilizers": []
+  },
+  {
+    "code": 659,
+    "name": "Исследования воздушной среды",
+    "price": 443.66,
+    "executionPeriod": null,
+    "averageDeviation": null,
+    "averageResult": null,
+    "orderServices": [],
+    "staff": [],
+    "utilizers": []
+  },
+  {
+    "code": 797,
+    "name": "Исследования твердых отходов",
+    "price": 370.62,
+    "executionPeriod": null,
+    "averageDeviation": null,
+    "averageResult": null,
+    "orderServices": [],
+    "staff": [],
+    "utilizers": []
+  },
+  {
+    "code": 836,
+    "name": "Независимая экспертиза опасных отходов",
+    "price": 105.32,
+    "executionPeriod": null,
+    "averageDeviation": null,
+    "averageResult": null,
+    "orderServices": [],
+    "staff": [],
+    "utilizers": []
+  },
+  {
+    "code": 855,
+    "name": "Формирование карточки предприятия",
+    "price": 209.78,
+    "executionPeriod": null,
+    "averageDeviation": null,
+    "averageResult": null,
+    "orderServices": [],
+    "staff": [],
+    "utilizers": []
+  }
+]
