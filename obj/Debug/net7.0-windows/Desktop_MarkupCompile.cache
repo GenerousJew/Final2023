@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\IS\Desktop\DeleteThis\Desktop\obj\Debug\net7.0-windows\
+C:\Users\danii\Desktop\Финал\Desktop\obj\Debug\net7.0-windows\
 Desktop
 none
 false
 TRACE;DEBUG;NET;NET7_0;NETCOREAPP
-C:\Users\IS\Desktop\DeleteThis\Desktop\App.xaml
-12182676955
-1-645744974
-28373922449
-1981871740104
-Pages\AccountantPage.xaml;Pages\AdminPage.xaml;Pages\Autorization.xaml;Pages\CaseNumberPage.xaml;Pages\LabPage.xaml;Pages\LabResPage.xaml;Pages\OrderEditorPage.xaml;Pages\Test1.xaml;Windows\CaseEnterWindow.xaml;Windows\LoginHistoryWindow.xaml;Windows\MainWindow.xaml;Windows\UserCreatorWindow.xaml;
+C:\Users\danii\Desktop\Финал\Desktop\App.xaml
+131526731671
+
+30-927978327
+200-529046630
+Pages\AccountantPage.xaml;Pages\AdminPage.xaml;Pages\Autorization.xaml;Pages\CaseNumberPage.xaml;Pages\LabPage.xaml;Pages\LabResPage.xaml;Pages\OrderEditorPage.xaml;Pages\Test1.xaml;Windows\CaseEnterWindow.xaml;Windows\LoginHistoryWindow.xaml;Windows\MainWindow.xaml;Windows\QualityControlWIndow.xaml;Windows\UserCreatorWindow.xaml;
 
 False
 

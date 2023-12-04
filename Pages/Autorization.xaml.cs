@@ -135,7 +135,7 @@ namespace Desktop.Pages
                 string ip = Dns.GetHostByName(host).AddressList[1].ToString();
 
                 var client = new HttpClient();
-                var responce = await client.GetAsync("http://localhost:5080/api/GetAutorization?login=" + LoginText.Text + "&password=" + password + "&ip=" + ip);
+                var responce = await client.GetAsync("http://localhost:5080/api/GetAutorization/login=" + LoginText.Text + "&password=" + password + "&ip=" + ip);
                 
                 try
                 {

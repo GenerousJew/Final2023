@@ -10,14 +10,40 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="Images\laborant_1.jpeg" />
+    <None Remove="Images\laborant_2.png" />
+    <None Remove="Images\Logo.png" />
+    <None Remove="Images\Администратор.png" />
+    <None Remove="Images\Бухгалтер.jpeg" />
     <None Remove="Images\капча.png" />
   </ItemGroup>
 
   <ItemGroup>
-    <Content Include="Images\Logo.ico" />
+    <Resource Include="Images\Logo.ico" />
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="LiveCharts.Wpf" Version="0.9.7" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\laborant_1.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\laborant_2.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\Logo.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\Администратор.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\Бухгалтер.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
     <Resource Include="Images\капча.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Resource>
@@ -33,10 +59,6 @@
 
   <ItemGroup>
     <None Update="Images\Logo.ico">
-      <Pack>True</Pack>
-      <PackagePath>\</PackagePath>
-    </None>
-    <None Update="Images\Logo.png">
       <Pack>True</Pack>
       <PackagePath>\</PackagePath>
     </None>
